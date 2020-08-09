@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-spring/go-spring-utils"
+	"github.com/go-spring/spring-utils"
 )
 
 // Diff 比较任意两个变量的内容是否相同
